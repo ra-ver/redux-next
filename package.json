@@ -1,0 +1,13 @@
+{
+  "name": "redux-next",
+  "version": "1.0.0",
+  "description": "Application built to understand how to use NextJS in a React/Redux App",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Rahul Verma",
+  "license": "ISC"
+}
